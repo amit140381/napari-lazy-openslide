@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: napari-lazy-openslide
+  annotations:
+    github.com/project-slug: amit140381/napari-lazy-openslide
+spec:
+  type: other
+  lifecycle: unknown
